@@ -12,7 +12,7 @@ namespace SampleLib.Test
         [Fact]
         public void Test01()
         {
-
+            throw new Exception();
         }
     }
 }
